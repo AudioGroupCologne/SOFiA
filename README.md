@@ -29,13 +29,13 @@ Copyright 2011-2017 Benjamin Bernschütz et al.
 
 ### Contact:
 
-TH Köln (University of Applied Sciences)
-Institute of Communications Systems
-Betzdorfer Street 2
-D-50679 Germany (Europe)
-phone +49 221 8275 -2496
-cell phone  +49 171 4176069
-mail  rockzentrale@me.com
+TH Köln (University of Applied Sciences)<br />
+Institute of Communications Systems<br />
+Betzdorfer Street 2<br />
+D-50679 Germany (Europe)<br />
+phone +49 221 8275 -2496<br />
+cell phone  +49 171 4176069<br />
+mail  rockzentrale@me.com<br />
 --------------------------------------------<br />
 
 This file is part of the SOFiA sound field analysis toolbox
@@ -82,12 +82,12 @@ Nils Peters  - nils@icsi.berkeley.edu
 
 ### ASAR/MARA Research Group
 
-[1] TH Köln (University of Applied Sciences)
-[2] Technical University of Berlin
-[3] Deutsche Telekom Laboratories
-[4] University of Rostock
-[5] WDR Westdeutscher Rundfunk
-[6] IOSONO GmbH Erfurt
+[1] TH Köln (University of Applied Sciences)<br />
+[2] Technical University of Berlin <br />
+[3] Deutsche Telekom Laboratories <br />
+[4] University of Rostock<br />
+[5] WDR Westdeutscher Rundfunk<br />
+[6] IOSONO GmbH Erfurt<br />
 
 Visit our websites for:
 
