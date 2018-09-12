@@ -17,7 +17,7 @@ The maintainance of the MATLAB toolbox was discontinued in 2013. It can still be
 
 The Python successor "SOFiA py" can be found at: https://github.com/QULab/sound_field_analysis-py
 
-Best regards,
+Best regards,   
 Benjamin Bernschütz
 
 ## License Information
