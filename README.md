@@ -1,4 +1,4 @@
-## SOFiA - Sound Field Analysis Toolbox for Matlab
+# SOFiA - Sound Field Analysis Toolbox for Matlab
 
 Welcome to the SOFiA sound analysis toolbox 2011-2017, Mayor Release II 2013
 
