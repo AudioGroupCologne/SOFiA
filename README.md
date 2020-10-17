@@ -15,6 +15,10 @@ The full package consists of three Folders:
 Update 2017:
 The maintainance of the MATLAB toolbox was discontinued in 2013. It can still be used but there is no further development.
 
+Update 2020:
+Remove order limitation of the radial filters in sofia_mf
+Tim Lübeck & Johannes M. Arend
+
 The Python successor "SOFiA py" can be found at: https://github.com/QULab/sound_field_analysis-py
 
 Best regards,   
