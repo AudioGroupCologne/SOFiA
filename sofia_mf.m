@@ -12,9 +12,9 @@
 % M/F Modal radial filters R13-0306
 %     Soft amplification limiting
 %     On-axis powerloss compensation with
-%     N0plc to N0 interpolation.
+%     N0 plc to N0 interpolation.
 %
-% Copyright 2011-2017 Benjamin Bernsch�tz, rockzentrale 'AT' me.com
+% Copyright 2011-2017 Benjamin Bernschütz, rockzentrale 'AT' me.com
 %                        and Nils Peters, nils 'AT' icsi.berkeley.edu
 %
 % This file is part of the SOFiA toolbox under MIT-License
@@ -38,16 +38,16 @@
 %             2  Rigid Sphere with pressure Transducers
 %             3  Rigid Sphere with cardioid Transducers (Thx to Nils Peters!)
 %             4  Dual Open Sphere with pressure Transducers (Thx to Nils Peters!)
-% a_max       Maximum modal amplification limit in [dB]
+% a_max       Maximum modal amplification limit in dB (#default = 0 dB)
 % plc         OnAxis powerloss-compensation:
-%             0  Off
+%             0  Off (#default)
 %             1  Full kr-spectrum plc
 %             2  Low kr only -> set fadeover
 % fadeover    Number of kr values to fade over +/- around min-distance
 %             gap of powerloss compensated filter and normal N0 filters.
-%             0 = auto fadeover
+%             0 = auto fadeover (#default)
 %
- 
+
 %
 % CONTACT AND LICENSE INFORMATION:
 %
@@ -98,7 +98,7 @@
 % USE OR OTHER DEALINGS IN THE SOFTWARE.
 %
 %
-% (�) Christoph P�rschmann [1]     christoph.poerschmann 'at' th-koeln.de
+% (c) Christoph Pörschmann [1]     christoph.poerschmann 'at' th-koeln.de
 %     Sascha Spors         [2,3,4] sascha.spors 'at' uni-rostock.de
 %     Stefan Weinzierl     [2]     stefan.weinzierl 'at' tu-berlin.de
 %     Nils Peters                  nils 'at' icsi.berkeley.edu
